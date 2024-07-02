@@ -1,0 +1,6 @@
+[
+    {"Id": 1, "Name": "Americano", "Price": 30.00},
+    {"Id": 2, "Name": "Capuccino", "Price": 40.00},
+    {"Id": 3, "Name": "Latte", "Price": 35.00},
+    {"Id": 4, "Name": "Tea", "Price": 25.00}
+]
